@@ -1,0 +1,17 @@
+{
+  "name": "webpack1-jsx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^7.1.1",
+    "babel-preset-es2015": "^6.24.1",
+    "nativejsx-loader": "^2.0.0",
+    "webpack": "^3.4.1"
+  }
+}
